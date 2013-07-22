@@ -13,6 +13,7 @@ findutils
 gawk
 gcc-libs
 gettext
+git
 glibc
 grep
 gzip
