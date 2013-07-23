@@ -28,6 +28,7 @@ heirloom-mailx
 inetutils
 iproute2
 iputils
+iw
 jfsutils
 less
 libtool
@@ -64,4 +65,6 @@ usbutils
 util-linux
 vi
 which
+wireless_tools
+wpa_supplicant
 xfsprogs
