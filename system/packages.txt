@@ -64,6 +64,7 @@ syslinux
 systemd-sysvcompat
 tar
 texinfo
+ttf-dejavu
 usbutils
 util-linux
 vi
