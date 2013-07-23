@@ -68,3 +68,6 @@ which
 wireless_tools
 wpa_supplicant
 xfsprogs
+xorg-server
+xorg-server-utils
+xorg-xinit
