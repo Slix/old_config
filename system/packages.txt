@@ -4,6 +4,7 @@ bash
 binutils
 bison
 bzip2
+chromium
 coreutils
 cronie
 cryptsetup
