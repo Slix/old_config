@@ -61,6 +61,7 @@ psmisc
 reiserfsprogs
 sed
 shadow
+skype
 sudo
 sysfsutils
 syslinux
