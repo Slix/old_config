@@ -19,6 +19,7 @@ fakeroot
 file
 filesystem
 findutils
+flashplugin
 flex
 gawk
 gcc
