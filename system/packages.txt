@@ -38,7 +38,9 @@ iputils
 iw
 jfsutils
 less
+lib32-libtxc_dxtn
 libtool
+libtxc_dxtn
 licenses
 linux
 logrotate
