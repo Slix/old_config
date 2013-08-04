@@ -72,6 +72,7 @@ vi
 which
 wireless_tools
 wpa_supplicant
+xf86-input-synaptics
 xf86-video-intel
 xfsprogs
 xorg-server
