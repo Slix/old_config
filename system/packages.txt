@@ -8,6 +8,7 @@ chromium
 coreutils
 cronie
 cryptsetup
+curl
 device-mapper
 dhcpcd
 diffutils
@@ -66,9 +67,11 @@ systemd-sysvcompat
 tar
 texinfo
 ttf-dejavu
+unzip
 usbutils
 util-linux
 vi
+wget
 which
 wireless_tools
 wpa_supplicant
