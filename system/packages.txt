@@ -52,6 +52,7 @@ make
 man-db
 man-pages
 mdadm
+mosh
 nano
 netctl
 openssh
