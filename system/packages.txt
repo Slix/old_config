@@ -35,6 +35,8 @@ i3status
 inetutils
 iproute2
 iputils
+ipython
+ipython2
 iw
 jfsutils
 less
@@ -65,6 +67,10 @@ perl
 pkg-config
 procps-ng
 psmisc
+python
+python-virtualenv
+python2
+python2-virtualenv
 reiserfsprogs
 sed
 shadow
