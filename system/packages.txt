@@ -2,8 +2,10 @@ alsa-utils
 autoconf
 automake
 bash
+bbswitch
 binutils
 bison
+bumblebee
 bzip2
 chromium
 coreutils
@@ -42,6 +44,8 @@ jfsutils
 less
 lib32-intel-dri
 lib32-libtxc_dxtn
+lib32-nvidia-utils
+lib32-primus
 libtool
 libtxc_dxtn
 licenses
@@ -57,6 +61,7 @@ mdadm
 mosh
 nano
 netctl
+nvidia
 openssh
 openvpn
 pacman
@@ -65,6 +70,7 @@ pciutils
 pcmciautils
 perl
 pkg-config
+primus
 procps-ng
 psmisc
 python
